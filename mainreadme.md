@@ -19,5 +19,5 @@
 
 ![Github Image](https://th.bing.com/th/id/OIP.fqZ9-PPqcG_cm0k3JfoINQHaEK?w=308&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
 
-- [x] Compelte
-- [ ] Incomplete
+- [x] **Compelte**
+- [ ] **Incomplete**
