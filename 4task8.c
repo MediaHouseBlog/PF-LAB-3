@@ -7,6 +7,10 @@ int main()
     scanf("%d",&temp);
     if(temp > 30)
     {
-        
+      printf("Hot Day");  
+    }
+    else
+    {
+        printf("Pleasant Day");
     }
 }
